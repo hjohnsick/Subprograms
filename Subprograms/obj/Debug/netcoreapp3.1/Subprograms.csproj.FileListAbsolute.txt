@@ -1,0 +1,13 @@
+C:\Users\hjohn\GIT\Subprograms\Subprograms\bin\Debug\netcoreapp3.1\Subprograms.exe
+C:\Users\hjohn\GIT\Subprograms\Subprograms\bin\Debug\netcoreapp3.1\Subprograms.deps.json
+C:\Users\hjohn\GIT\Subprograms\Subprograms\bin\Debug\netcoreapp3.1\Subprograms.runtimeconfig.json
+C:\Users\hjohn\GIT\Subprograms\Subprograms\bin\Debug\netcoreapp3.1\Subprograms.runtimeconfig.dev.json
+C:\Users\hjohn\GIT\Subprograms\Subprograms\bin\Debug\netcoreapp3.1\Subprograms.dll
+C:\Users\hjohn\GIT\Subprograms\Subprograms\bin\Debug\netcoreapp3.1\Subprograms.pdb
+C:\Users\hjohn\GIT\Subprograms\Subprograms\obj\Debug\netcoreapp3.1\Subprograms.csprojAssemblyReference.cache
+C:\Users\hjohn\GIT\Subprograms\Subprograms\obj\Debug\netcoreapp3.1\Subprograms.AssemblyInfoInputs.cache
+C:\Users\hjohn\GIT\Subprograms\Subprograms\obj\Debug\netcoreapp3.1\Subprograms.AssemblyInfo.cs
+C:\Users\hjohn\GIT\Subprograms\Subprograms\obj\Debug\netcoreapp3.1\Subprograms.csproj.CoreCompileInputs.cache
+C:\Users\hjohn\GIT\Subprograms\Subprograms\obj\Debug\netcoreapp3.1\Subprograms.dll
+C:\Users\hjohn\GIT\Subprograms\Subprograms\obj\Debug\netcoreapp3.1\Subprograms.pdb
+C:\Users\hjohn\GIT\Subprograms\Subprograms\obj\Debug\netcoreapp3.1\Subprograms.genruntimeconfig.cache
